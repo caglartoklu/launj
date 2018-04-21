@@ -72,6 +72,14 @@ Yes, JRE is still needed to run your `.jar` file.
 LaunJ has nothing to do with the contents or jar files.
 
 
+### BitDefender warns me about malicious behaviour, why is that?
+
+Because, a program is running another.
+And, when you compile the source code, the signature of the exe file is changed.
+Some antivirus programs are sensitive to that.
+You have the source code, you can recompile it as you wish.
+
+
 
 # System Requirements
 
