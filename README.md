@@ -55,8 +55,7 @@ At this point, you will have the same executable with a customized icon.
 
 Here is an animated gif after demonstrating the usage after download the release:
 
-![launj_usage_1]
-(https://user-images.githubusercontent.com/2071639/39084259-2bcd350e-457b-11e8-85ff-ad105bb1eafc.gif)
+![launj_usage_1](https://user-images.githubusercontent.com/2071639/39084259-2bcd350e-457b-11e8-85ff-ad105bb1eafc.gif)
 
 # FAQ
 
