@@ -13,8 +13,7 @@ It also includes a simple and sample Java project called _notepadrunner_.
 - Your program will have a pretty icon.
 - It can easily be added to Start Menu.
 - The directory can be added to [PATH variables](https://www.java.com/en/download/help/path.xml), and can be launched from command line.
-- All the facilities of Windows for exe file will work. ([SendTo](https://www.howtogeek.com/howto/windows-vista/customize-the-windows-vista-send-to-menu/), [Open With](https://techforluddites.com/windows-10-change-the-default-programs-for-opening-files/) etc.)
-
+- All the facilities of Windows for exe file will work. ([SendTo](https://www.howtogeek.com/howto/windows-vista/customize-the-windows-vista-send-to-menu/), [Open With](https://techforluddites.com/windows-10-change-the-default-programs-for-opening-files/), drag and drop etc.)
 - It works with file names including unicode characters.
 - It works with file names with spaces.
 - It works within directories with unicode characters and spaces.
@@ -23,10 +22,9 @@ It also includes a simple and sample Java project called _notepadrunner_.
 
 # Usage
 
-
 ### Most simple method:
 
-- Clone/download this repository, or download the latest files from from _Releases_ page.
+- Clone/download this repository, or download the latest files from from _releases_ page.
 - Copy `launj.exe` next to your jar file.
 - Rename `launj.exe` with the same name of your `.jar` file.
 If the name of the file is `foobar.jar`, rename `launj.exe` as `foobar.exe`.
@@ -55,6 +53,10 @@ C:\FreeBASIC\fbc.exe -s gui launj.bas launj.rc
 
 At this point, you will have the same executable with a customized icon.
 
+Here is an animated gif after demonstrating the usage after download the release:
+
+![launj_usage_1]
+(https://user-images.githubusercontent.com/2071639/39084259-2bcd350e-457b-11e8-85ff-ad105bb1eafc.gif)
 
 # FAQ
 
@@ -70,7 +72,6 @@ If a new requirement that can not be accomplished is considered, the launcher ex
 
 Yes, JRE is still needed to run your `.jar` file.
 LaunJ has nothing to do with the contents or jar files.
-
 
 ### BitDefender warns me about malicious behaviour, why is that?
 
